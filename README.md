@@ -62,6 +62,8 @@ The validation uses:
 
 ## 📷 Screenshots
 
+![Screenshot 2025-06-14 112508](https://github.com/user-attachments/assets/23180e25-d1ef-40da-812c-c813e3c314c9)
+
 ## 🙌 Acknowledgements
 
 - Sudoku solving logic inspired by common backtracking techniques
